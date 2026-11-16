@@ -1,0 +1,1537 @@
+model,idx,format,stated_label,wrong_case,placeholder_copied,parsed_label,rule_disagrees,words,explanation_words,truncated,no_explanation,long
+qwen25-7b,0,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,108,106,False,False,True
+qwen25-7b,1,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+qwen25-7b,2,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,3,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,85,84,False,False,False
+qwen25-7b,4,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,5,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,6,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,False,False,True
+qwen25-7b,7,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,8,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,81,80,False,False,False
+qwen25-7b,9,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,False,False,True
+qwen25-7b,10,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b,11,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,12,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+qwen25-7b,13,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,14,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b,15,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,16,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b,17,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,71,70,False,False,False
+qwen25-7b,18,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+qwen25-7b,19,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,66,65,False,False,False
+qwen25-7b,20,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,78,73,False,False,False
+qwen25-7b,21,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b,22,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,23,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,24,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,25,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,101,96,False,False,True
+qwen25-7b,26,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b,27,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,152,147,False,False,True
+qwen25-7b,28,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,29,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,30,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,59,56,False,False,False
+qwen25-7b,31,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,32,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,144,141,False,False,True
+qwen25-7b,33,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,34,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,35,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,36,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b,37,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b,38,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b,39,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,72,67,False,False,False
+qwen25-7b,40,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b,41,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,42,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,129,126,False,False,True
+qwen25-7b,43,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,85,80,False,False,False
+qwen25-7b,44,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,112,107,False,False,True
+qwen25-7b,45,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,46,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,76,75,False,False,False
+qwen25-7b,47,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,48,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+qwen25-7b,49,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,130,127,False,False,True
+qwen25-7b,50,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,93,88,False,False,False
+qwen25-7b,51,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,52,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,53,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,74,69,False,False,False
+qwen25-7b,54,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,121,118,False,False,True
+qwen25-7b,55,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,135,132,False,False,True
+qwen25-7b,56,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b,57,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,58,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,59,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,60,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,61,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+qwen25-7b,62,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,63,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b,64,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,89,84,False,False,False
+qwen25-7b,65,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,74,69,False,False,False
+qwen25-7b,66,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+qwen25-7b,67,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,59,58,False,False,False
+qwen25-7b,68,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b,69,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,86,84,False,False,False
+qwen25-7b,70,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,80,75,False,False,False
+qwen25-7b,71,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,72,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,104,99,False,False,True
+qwen25-7b,73,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,74,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,120,117,False,False,True
+qwen25-7b,75,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+qwen25-7b,76,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,77,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,117,114,False,False,True
+qwen25-7b,78,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b,79,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,75,70,False,False,False
+qwen25-7b,80,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,117,114,False,False,True
+qwen25-7b,81,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,140,137,False,False,True
+qwen25-7b,82,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b,83,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,84,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,85,<label> without LABEL:,REFUTED,False,False,REFUTED,False,86,85,False,False,False
+qwen25-7b,86,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,110,109,False,False,True
+qwen25-7b,87,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b,88,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,89,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,90,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b,91,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b,92,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,93,LABEL: <label>,REFUTED,False,False,REFUTED,False,75,72,False,False,False
+qwen25-7b,94,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,95,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b,96,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b,97,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,85,84,False,False,False
+qwen25-7b,98,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,83,81,False,False,False
+qwen25-7b,99,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,100,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b,101,<label> without LABEL:,REFUTED,False,False,REFUTED,False,81,80,False,False,False
+qwen25-7b,102,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,103,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,104,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,68,67,False,False,False
+qwen25-7b,105,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b,106,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+qwen25-7b,107,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,108,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b,109,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,110,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,111,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,79,74,False,False,False
+qwen25-7b,112,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,113,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,114,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,115,112,False,False,True
+qwen25-7b,115,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,116,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,79,78,False,False,False
+qwen25-7b,117,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,72,70,False,False,False
+qwen25-7b,118,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,119,<label> without LABEL:,REFUTED,False,False,REFUTED,False,70,69,False,False,False
+qwen25-7b,120,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,121,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,70,65,False,False,False
+qwen25-7b,122,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,123,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,94,False,False,False
+qwen25-7b,124,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b,125,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,126,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b,127,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,128,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,106,101,False,False,True
+qwen25-7b,129,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b,130,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,129,126,False,False,True
+qwen25-7b,131,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b,132,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,133,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,88,83,False,False,False
+qwen25-7b,134,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,74,69,False,False,False
+qwen25-7b,135,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b,136,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,111,106,False,False,True
+qwen25-7b,137,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b,138,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b,139,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,124,121,False,False,True
+qwen25-7b,140,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b,141,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,142,<label> without LABEL:,REFUTED,False,False,REFUTED,False,71,70,False,False,False
+qwen25-7b,143,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b,144,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,65,63,False,False,False
+qwen25-7b,145,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,105,100,False,False,True
+qwen25-7b,146,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b,147,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,80,78,False,False,False
+qwen25-7b,148,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,86,85,False,False,False
+qwen25-7b,149,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+qwen25-7b,150,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,151,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,119,116,False,False,True
+qwen25-7b,152,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b,153,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,98,93,False,False,False
+qwen25-7b,154,<label> without LABEL:,REFUTED,False,False,REFUTED,False,96,95,False,False,False
+qwen25-7b,155,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b,156,<label> without LABEL:,REFUTED,False,False,REFUTED,False,62,61,False,False,False
+qwen25-7b,157,LABEL: <label>,REFUTED,False,False,REFUTED,False,89,86,False,False,False
+qwen25-7b,158,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b,159,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,160,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,161,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,162,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,163,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,113,110,False,False,True
+qwen25-7b,164,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,94,False,False,False
+qwen25-7b,165,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b,166,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,68,67,False,False,False
+qwen25-7b,167,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,79,78,False,False,False
+qwen25-7b,168,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,105,100,False,False,True
+qwen25-7b,169,<label> without LABEL:,REFUTED,False,False,REFUTED,False,77,76,False,False,False
+qwen25-7b,170,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b,171,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,125,122,False,False,True
+qwen25-7b,172,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,80,79,False,False,False
+qwen25-7b,173,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,133,130,False,False,True
+qwen25-7b,174,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,83,78,False,False,False
+qwen25-7b,175,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,63,62,False,False,False
+qwen25-7b,176,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,177,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,178,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b,179,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,180,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,False,False,True
+qwen25-7b,181,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+qwen25-7b,182,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b,183,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,55,50,False,False,False
+qwen25-7b,184,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,78,73,False,False,False
+qwen25-7b,185,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,186,<label> without LABEL:,REFUTED,False,False,REFUTED,False,112,111,False,False,True
+qwen25-7b,187,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,79,74,False,False,False
+qwen25-7b,188,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,189,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,190,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,67,66,False,False,False
+qwen25-7b,191,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,101,96,False,False,True
+qwen25-7b,192,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,81,76,False,False,False
+qwen25-7b,193,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,194,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b,195,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,196,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+qwen25-7b,197,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,198,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b,199,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,200,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,87,82,False,False,False
+qwen25-7b,201,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,202,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,92,87,False,False,False
+qwen25-7b,203,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,204,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,69,68,False,False,False
+qwen25-7b,205,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,206,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,125,120,False,False,True
+qwen25-7b,207,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,208,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,209,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+qwen25-7b,210,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,80,75,False,False,False
+qwen25-7b,211,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b,212,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+qwen25-7b,213,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+qwen25-7b,214,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,215,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b,216,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,217,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,218,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,89,84,False,False,False
+qwen25-7b,219,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,220,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,221,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,79,74,False,False,False
+qwen25-7b,222,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,91,86,False,False,False
+qwen25-7b,223,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,224,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,225,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,226,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b,227,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,228,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+qwen25-7b,229,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,230,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,112,111,False,False,True
+qwen25-7b,231,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b,232,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,233,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,234,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,86,81,False,False,False
+qwen25-7b,235,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,101,96,False,False,True
+qwen25-7b,236,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,136,133,False,False,True
+qwen25-7b,237,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,93,88,False,False,False
+qwen25-7b,238,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,239,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b,240,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,54,53,False,False,False
+qwen25-7b,241,<label> without LABEL:,REFUTED,False,False,REFUTED,False,62,61,False,False,False
+qwen25-7b,242,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,243,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,244,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,245,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,62,57,False,False,False
+qwen25-7b,246,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,247,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b,248,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,249,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,112,107,False,False,True
+qwen25-7b,250,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,251,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,252,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b,253,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,254,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,88,86,False,False,False
+qwen25-7b,255,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,256,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,257,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,113,108,False,False,True
+qwen25-7b,258,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b,259,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,77,72,False,False,False
+qwen25-7b,260,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,261,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,80,75,False,False,False
+qwen25-7b,262,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b,263,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b,264,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,265,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,123,120,False,False,True
+qwen25-7b,266,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+qwen25-7b,267,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b,268,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,87,False,False,False
+qwen25-7b,269,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,270,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b,271,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,272,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,273,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,274,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b,275,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b,276,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,108,103,False,False,True
+qwen25-7b,277,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b,278,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,279,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b,280,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,77,72,False,False,False
+qwen25-7b,281,<label> without LABEL:,REFUTED,False,False,REFUTED,False,91,90,False,False,False
+qwen25-7b,282,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,283,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,284,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,285,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b,286,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b,287,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,288,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,83,78,False,False,False
+qwen25-7b,289,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,86,81,False,False,False
+qwen25-7b,290,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,291,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,292,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,293,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,121,116,False,False,True
+qwen25-7b,294,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,295,<label> without LABEL:,REFUTED,False,False,REFUTED,False,95,94,False,False,False
+qwen25-7b,296,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b,297,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,298,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b,299,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,300,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b,301,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,302,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,78,73,False,False,False
+qwen25-7b,303,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b,304,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+qwen25-7b,305,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+qwen25-7b,306,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,307,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,308,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,119,116,False,False,True
+qwen25-7b,309,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,108,105,False,False,True
+qwen25-7b,310,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,311,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b,312,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+qwen25-7b,313,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,78,73,False,False,False
+qwen25-7b,314,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,315,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,316,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,317,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b,318,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b,319,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b,320,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,102,97,False,False,True
+qwen25-7b,321,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,322,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,323,<label> without LABEL:,REFUTED,False,False,REFUTED,False,71,70,False,False,False
+qwen25-7b,324,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,325,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,76,71,False,False,False
+qwen25-7b,326,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,136,134,False,False,True
+qwen25-7b,327,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,81,76,False,False,False
+qwen25-7b,328,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+qwen25-7b,329,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,330,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,331,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,332,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b,333,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,115,112,False,False,True
+qwen25-7b,334,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,False,False,False
+qwen25-7b,335,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,336,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,110,105,False,False,True
+qwen25-7b,337,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,False,False,True
+qwen25-7b,338,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,339,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b,340,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,341,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,106,101,False,False,True
+qwen25-7b,342,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,343,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,103,98,False,False,True
+qwen25-7b,344,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,SUPPORTED,True,95,90,False,False,False
+qwen25-7b,345,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b,346,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,126,123,False,False,True
+qwen25-7b,347,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,109,104,False,False,True
+qwen25-7b,348,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,110,105,False,False,True
+qwen25-7b,349,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,90,85,False,False,False
+qwen25-7b,350,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b,351,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,94,False,False,False
+qwen25-7b,352,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,93,88,False,False,False
+qwen25-7b,353,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,354,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b,355,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,356,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,104,99,False,False,True
+qwen25-7b,357,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b,358,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,359,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,360,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,361,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b,362,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,363,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,86,81,False,False,False
+qwen25-7b,364,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b,365,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,87,82,False,False,False
+qwen25-7b,366,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b,367,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,368,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b,369,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b,370,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b,371,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+qwen25-7b,372,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,132,129,False,False,True
+qwen25-7b,373,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,89,84,False,False,False
+qwen25-7b,374,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,375,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,70,65,False,False,False
+qwen25-7b,376,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,377,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,378,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,379,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,380,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,False,False,False
+qwen25-7b,381,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,127,122,False,False,True
+qwen25-7b,382,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,123,120,False,False,True
+qwen25-7b,383,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,384,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b,385,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b,386,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,158,155,False,False,True
+qwen25-7b,387,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,56,53,False,False,False
+qwen25-7b,388,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b,389,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,122,119,False,False,True
+qwen25-7b,390,LABEL: <label>,REFUTED,False,False,REFUTED,False,97,94,False,False,False
+qwen25-7b,391,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b,392,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,393,LABEL: <label>,REFUTED,False,False,REFUTED,False,99,96,False,False,False
+qwen25-7b,394,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,76,71,False,False,False
+qwen25-7b,395,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,396,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b,397,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b,398,<label> without LABEL:,REFUTED,False,False,REFUTED,False,65,64,False,False,False
+qwen25-7b,399,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,400,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+qwen25-7b,401,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,67,62,False,False,False
+qwen25-7b,402,<label> without LABEL:,REFUTED,False,False,REFUTED,False,72,71,False,False,False
+qwen25-7b,403,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b,404,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,100,95,False,False,False
+qwen25-7b,405,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,406,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b,407,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b,408,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,68,66,False,False,False
+qwen25-7b,409,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,98,93,False,False,False
+qwen25-7b,410,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,411,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,137,134,False,False,True
+qwen25-7b,412,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,63,62,False,False,False
+qwen25-7b,413,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,414,<label> without LABEL:,REFUTED,False,False,REFUTED,False,75,74,False,False,False
+qwen25-7b,415,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,102,101,False,False,True
+qwen25-7b,416,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b,417,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b,418,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,419,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,420,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b,421,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,111,109,False,False,True
+qwen25-7b,422,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,423,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b,424,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,425,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,426,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+qwen25-7b,427,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,104,99,False,False,True
+qwen25-7b,428,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+qwen25-7b,429,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b,430,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,119,116,False,False,True
+qwen25-7b,431,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+qwen25-7b,432,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,433,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,434,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,116,111,False,False,True
+qwen25-7b,435,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,False,False,False
+qwen25-7b,436,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+qwen25-7b,437,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b,438,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+qwen25-7b,439,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b,440,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b,441,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,115,110,False,False,True
+qwen25-7b,442,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+qwen25-7b,443,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b,444,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,84,79,False,False,False
+qwen25-7b,445,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,127,122,False,False,True
+qwen25-7b,446,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b,447,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+qwen25-7b,448,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b,449,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b,450,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,451,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,117,114,False,False,True
+qwen25-7b,452,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,453,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,454,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,98,93,False,False,False
+qwen25-7b,455,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b,456,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b,457,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,145,140,False,False,True
+qwen25-7b,458,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,121,118,False,False,True
+qwen25-7b,459,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,69,67,False,False,False
+qwen25-7b,460,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,461,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b,462,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b,463,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+qwen25-7b,464,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b,465,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b,466,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,81,76,False,False,False
+qwen25-7b,467,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,118,113,False,False,True
+qwen25-7b,468,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,469,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,67,62,False,False,False
+qwen25-7b,470,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b,471,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b,472,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,97,92,False,False,False
+qwen25-7b,473,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b,474,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,475,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b,476,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,107,102,False,False,True
+qwen25-7b,477,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,103,102,False,False,True
+qwen25-7b,478,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+qwen25-7b,479,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b,480,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,88,83,False,False,False
+qwen25-7b,481,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,False,False,False
+qwen25-7b,482,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b,483,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+qwen25-7b,484,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,132,129,False,False,True
+qwen25-7b,485,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b,486,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b,487,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,77,76,False,False,False
+qwen25-7b,488,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b,489,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b,490,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b,491,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,84,83,False,False,False
+qwen25-7b,492,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,104,99,False,False,True
+qwen25-7b,493,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+qwen25-7b,494,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b,495,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b,496,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,113,110,False,False,True
+qwen25-7b,497,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,498,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,124,121,False,False,True
+qwen25-7b,499,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,116,113,False,False,True
+qwen25-7b,500,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b,501,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,103,98,False,False,True
+qwen25-7b,502,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,94,False,False,False
+qwen25-7b,503,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b,504,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b,505,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,506,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b,507,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,81,76,False,False,False
+qwen25-7b,508,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b,509,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,58,57,False,False,False
+qwen25-7b,510,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,64,59,False,False,False
+qwen25-7b,511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,55,False,False,False
+biomistral-7b,0,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b,1,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+biomistral-7b,2,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
+biomistral-7b,3,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,4,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+biomistral-7b,5,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,39,37,False,False,False
+biomistral-7b,6,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,True,False,False
+biomistral-7b,7,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,8,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,True,False,False
+biomistral-7b,9,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,10,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,True,False,False
+biomistral-7b,11,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,True,False,False
+biomistral-7b,12,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b,13,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b,14,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,46,False,False,False
+biomistral-7b,15,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,16,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,17,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,18,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+biomistral-7b,19,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,True,False,False
+biomistral-7b,20,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,21,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,83,78,False,False,False
+biomistral-7b,22,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b,23,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,12,11,False,False,False
+biomistral-7b,24,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,51,48,False,False,False
+biomistral-7b,25,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,48,43,False,False,False
+biomistral-7b,26,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+biomistral-7b,27,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,101,96,True,False,True
+biomistral-7b,28,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b,29,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,True,False,False
+biomistral-7b,30,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+biomistral-7b,31,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,52,49,False,False,False
+biomistral-7b,32,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b,33,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b,34,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b,35,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b,36,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b,37,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,38,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,52,49,False,False,False
+biomistral-7b,39,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,40,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,True,False,False
+biomistral-7b,41,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,True,False,False
+biomistral-7b,42,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,87,85,True,False,False
+biomistral-7b,43,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,43,38,False,False,False
+biomistral-7b,44,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b,45,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,42,False,False,False
+biomistral-7b,46,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,47,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b,48,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+biomistral-7b,49,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b,50,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+biomistral-7b,51,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,96,91,True,False,False
+biomistral-7b,52,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b,53,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,54,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,18,15,False,False,False
+biomistral-7b,55,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,56,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,103,98,True,False,True
+biomistral-7b,57,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,49,False,False,False
+biomistral-7b,58,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,59,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,51,48,False,False,False
+biomistral-7b,60,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,True,False,False
+biomistral-7b,61,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,62,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,63,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+biomistral-7b,64,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,42,False,False,False
+biomistral-7b,65,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,66,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b,67,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,82,80,True,False,False
+biomistral-7b,68,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b,69,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b,70,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,71,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,72,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b,73,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,True,False,False
+biomistral-7b,74,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,40,False,False,False
+biomistral-7b,75,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+biomistral-7b,76,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b,77,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,20,19,False,False,False
+biomistral-7b,78,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,44,False,False,False
+biomistral-7b,79,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b,80,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,81,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,30,False,False,False
+biomistral-7b,82,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,83,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,41,36,False,False,False
+biomistral-7b,84,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,34,31,False,False,False
+biomistral-7b,85,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,33,False,False,False
+biomistral-7b,86,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,87,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,True,False,False
+biomistral-7b,88,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,89,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,42,39,False,False,False
+biomistral-7b,90,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,True,False,False
+biomistral-7b,91,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,42,False,False,False
+biomistral-7b,92,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,True,False,False
+biomistral-7b,93,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,94,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b,95,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,96,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,16,15,False,False,False
+biomistral-7b,97,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b,98,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,99,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b,100,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,107,105,True,False,True
+biomistral-7b,101,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,25,24,False,False,False
+biomistral-7b,102,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+biomistral-7b,103,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b,104,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,29,False,False,False
+biomistral-7b,105,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,31,28,False,False,False
+biomistral-7b,106,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b,107,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,52,49,False,False,False
+biomistral-7b,108,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b,109,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+biomistral-7b,110,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,True,False,False
+biomistral-7b,111,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,81,76,False,False,False
+biomistral-7b,112,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,True,False,False
+biomistral-7b,113,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b,114,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+biomistral-7b,115,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,55,50,False,False,False
+biomistral-7b,116,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,55,52,False,False,False
+biomistral-7b,117,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b,118,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,True,False,False
+biomistral-7b,119,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,48,43,False,False,False
+biomistral-7b,120,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,59,56,False,False,False
+biomistral-7b,121,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,122,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,True,False,True
+biomistral-7b,123,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
+biomistral-7b,124,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,125,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b,126,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+biomistral-7b,127,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+biomistral-7b,128,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,129,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,130,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,131,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,49,False,False,False
+biomistral-7b,132,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+biomistral-7b,133,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b,134,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,135,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,46,41,False,False,False
+biomistral-7b,136,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,137,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,138,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,139,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b,140,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,141,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b,142,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,143,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,37,34,False,False,False
+biomistral-7b,144,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,True,False,False
+biomistral-7b,145,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,146,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,60,55,False,False,False
+biomistral-7b,147,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,148,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,97,92,True,False,False
+biomistral-7b,149,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,150,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,58,53,False,False,False
+biomistral-7b,151,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,152,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,True,False,False
+biomistral-7b,153,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b,154,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,155,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,156,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,30,False,False,False
+biomistral-7b,157,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,48,False,False,False
+biomistral-7b,158,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,True,False,False
+biomistral-7b,159,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,True,False,False
+biomistral-7b,160,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b,161,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,70,68,True,False,False
+biomistral-7b,162,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,39,36,False,False,False
+biomistral-7b,163,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,164,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,165,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b,166,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b,167,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,168,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,True,False,False
+biomistral-7b,169,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,170,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,171,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,172,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b,173,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,174,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,175,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,55,50,False,False,False
+biomistral-7b,176,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,False,False,False
+biomistral-7b,177,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,178,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,179,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,180,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,181,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,True,False,False
+biomistral-7b,182,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,True,False,False
+biomistral-7b,183,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,184,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,185,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,True,False,False
+biomistral-7b,186,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,24,23,False,False,False
+biomistral-7b,187,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,92,87,False,False,False
+biomistral-7b,188,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b,189,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,190,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+biomistral-7b,191,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,39,36,False,False,False
+biomistral-7b,192,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,68,63,True,False,False
+biomistral-7b,193,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,194,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,43,38,False,False,False
+biomistral-7b,195,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,196,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,15,14,False,False,False
+biomistral-7b,197,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,198,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,65,60,False,False,False
+biomistral-7b,199,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,200,no label at start,,False,False,SUPPORTED,False,18,18,False,False,False
+biomistral-7b,201,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,202,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,203,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,204,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b,205,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,True,False,False
+biomistral-7b,206,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b,207,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,208,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,29,False,False,False
+biomistral-7b,209,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b,210,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b,211,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b,212,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,True,False,False
+biomistral-7b,213,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,True,False,False
+biomistral-7b,214,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,215,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b,216,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,217,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,28,False,False,False
+biomistral-7b,218,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,25,24,False,False,False
+biomistral-7b,219,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+biomistral-7b,220,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+biomistral-7b,221,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+biomistral-7b,222,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,106,101,True,False,True
+biomistral-7b,223,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,224,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+biomistral-7b,225,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+biomistral-7b,226,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b,227,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,46,43,False,False,False
+biomistral-7b,228,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,15,14,False,False,False
+biomistral-7b,229,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+biomistral-7b,230,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,231,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,56,51,False,False,False
+biomistral-7b,232,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,50,47,False,False,False
+biomistral-7b,233,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,234,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,33,False,False,False
+biomistral-7b,235,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b,236,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,237,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,True,False,False
+biomistral-7b,238,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,True,False,False
+biomistral-7b,239,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,44,False,False,False
+biomistral-7b,240,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b,241,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,242,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,243,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,106,105,True,False,True
+biomistral-7b,244,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,245,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,87,86,True,False,False
+biomistral-7b,246,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,247,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,248,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,46,False,False,False
+biomistral-7b,249,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,65,60,True,False,False
+biomistral-7b,250,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+biomistral-7b,251,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b,252,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b,253,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,64,59,False,False,False
+biomistral-7b,254,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,True,False,False
+biomistral-7b,255,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,256,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,257,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b,258,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+biomistral-7b,259,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b,260,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b,261,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,29,False,False,False
+biomistral-7b,262,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b,263,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b,264,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,True,False,False
+biomistral-7b,265,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,266,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+biomistral-7b,267,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,268,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,True,False,False
+biomistral-7b,269,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b,270,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,46,False,False,False
+biomistral-7b,271,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,76,74,False,False,False
+biomistral-7b,272,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+biomistral-7b,273,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,40,False,False,False
+biomistral-7b,274,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,True,False,False
+biomistral-7b,275,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,True,False,False
+biomistral-7b,276,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,277,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,True,False,False
+biomistral-7b,278,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,62,61,False,False,False
+biomistral-7b,279,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,True,False,False
+biomistral-7b,280,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,True,False,False
+biomistral-7b,281,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,282,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,283,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,284,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+biomistral-7b,285,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,50,47,False,False,False
+biomistral-7b,286,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,287,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,288,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b,289,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b,290,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,291,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b,292,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,76,74,True,False,False
+biomistral-7b,293,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,66,61,True,False,False
+biomistral-7b,294,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,16,15,False,False,False
+biomistral-7b,295,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,296,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,22,19,False,False,False
+biomistral-7b,297,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,298,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b,299,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,60,55,False,False,False
+biomistral-7b,300,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,301,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b,302,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b,303,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,True,False,False
+biomistral-7b,304,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,305,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,306,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,307,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b,308,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,309,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b,310,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b,311,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,51,48,False,False,False
+biomistral-7b,312,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b,313,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,314,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b,315,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
+biomistral-7b,316,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,317,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,318,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,319,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,320,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,37,34,False,False,False
+biomistral-7b,321,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,True,False,False
+biomistral-7b,322,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,69,68,True,False,False
+biomistral-7b,323,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,41,38,False,False,False
+biomistral-7b,324,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,325,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,326,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,327,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b,328,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,True,False,False
+biomistral-7b,329,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,22,21,False,False,False
+biomistral-7b,330,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,331,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,28,False,False,False
+biomistral-7b,332,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,333,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,334,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,True,False,False
+biomistral-7b,335,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+biomistral-7b,336,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,72,67,False,False,False
+biomistral-7b,337,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b,338,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,17,16,False,False,False
+biomistral-7b,339,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
+biomistral-7b,340,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,41,38,False,False,False
+biomistral-7b,341,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,342,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,343,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,344,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b,345,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,21,20,False,False,False
+biomistral-7b,346,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,120,117,True,False,True
+biomistral-7b,347,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,348,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,349,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b,350,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,351,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,352,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+biomistral-7b,353,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,354,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,355,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,356,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,357,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,True,False,False
+biomistral-7b,358,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,76,71,False,False,False
+biomistral-7b,359,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,True,False,False
+biomistral-7b,360,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,51,48,False,False,False
+biomistral-7b,361,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,True,False,True
+biomistral-7b,362,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,363,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,85,80,True,False,False
+biomistral-7b,364,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b,365,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,73,72,False,False,False
+biomistral-7b,366,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,367,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b,368,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+biomistral-7b,369,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,370,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b,371,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,True,False,False
+biomistral-7b,372,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+biomistral-7b,373,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,374,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
+biomistral-7b,375,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b,376,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,377,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,True,False,False
+biomistral-7b,378,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b,379,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,True,False,False
+biomistral-7b,380,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,381,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,True,False,False
+biomistral-7b,382,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,383,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,68,63,False,False,False
+biomistral-7b,384,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,385,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+biomistral-7b,386,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+biomistral-7b,387,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,51,48,False,False,False
+biomistral-7b,388,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,True,False,False
+biomistral-7b,389,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,56,51,False,False,False
+biomistral-7b,390,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,391,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,392,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,40,37,False,False,False
+biomistral-7b,393,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,94,False,False,False
+biomistral-7b,394,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,395,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,396,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,397,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,30,28,False,False,False
+biomistral-7b,398,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,49,False,False,False
+biomistral-7b,399,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,8,7,False,False,False
+biomistral-7b,400,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,True,False,False
+biomistral-7b,401,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,402,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b,403,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+biomistral-7b,404,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,112,107,True,False,True
+biomistral-7b,405,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,True,False,False
+biomistral-7b,406,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,18,17,False,False,False
+biomistral-7b,407,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,408,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+biomistral-7b,409,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,410,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,True,False,False
+biomistral-7b,411,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b,412,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,87,82,True,False,False
+biomistral-7b,413,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,42,False,False,False
+biomistral-7b,414,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,97,92,False,False,False
+biomistral-7b,415,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b,416,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,417,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b,418,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,36,35,False,False,False
+biomistral-7b,419,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+biomistral-7b,420,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b,421,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,112,107,True,False,True
+biomistral-7b,422,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,423,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+biomistral-7b,424,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,47,44,False,False,False
+biomistral-7b,425,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b,426,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+biomistral-7b,427,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,29,False,False,False
+biomistral-7b,428,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,429,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,39,False,False,False
+biomistral-7b,430,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,121,118,True,False,True
+biomistral-7b,431,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,34,31,False,False,False
+biomistral-7b,432,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,True,False,False
+biomistral-7b,433,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,434,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b,435,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b,436,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,50,47,False,False,False
+biomistral-7b,437,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,438,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,439,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+biomistral-7b,440,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,94,92,True,False,False
+biomistral-7b,441,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b,442,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,29,28,False,False,False
+biomistral-7b,443,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,108,105,True,False,True
+biomistral-7b,444,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,445,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,61,60,False,False,False
+biomistral-7b,446,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,True,False,False
+biomistral-7b,447,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+biomistral-7b,448,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,True,False,False
+biomistral-7b,449,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,450,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b,451,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,True,False,True
+biomistral-7b,452,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,True,False,False
+biomistral-7b,453,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+biomistral-7b,454,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,29,26,False,False,False
+biomistral-7b,455,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,456,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,457,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,458,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,459,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,True,False,False
+biomistral-7b,460,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b,461,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,52,47,False,False,False
+biomistral-7b,462,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,30,False,False,False
+biomistral-7b,463,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,True,False,True
+biomistral-7b,464,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,18,15,False,False,False
+biomistral-7b,465,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,True,False,False
+biomistral-7b,466,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,467,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,70,65,False,False,False
+biomistral-7b,468,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,64,59,False,False,False
+biomistral-7b,469,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,92,87,True,False,False
+biomistral-7b,470,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,46,43,False,False,False
+biomistral-7b,471,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,472,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b,473,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b,474,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b,475,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,49,False,False,False
+biomistral-7b,476,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b,477,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b,478,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b,479,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,480,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b,481,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,True,False,False
+biomistral-7b,482,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,483,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b,484,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b,485,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b,486,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,True,False,False
+biomistral-7b,487,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,True,False,False
+biomistral-7b,488,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,33,30,False,False,False
+biomistral-7b,489,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,490,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,41,38,False,False,False
+biomistral-7b,491,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,62,57,False,False,False
+biomistral-7b,492,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b,493,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,33,False,False,False
+biomistral-7b,494,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,True,False,True
+biomistral-7b,495,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,85,83,True,False,False
+biomistral-7b,496,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,18,17,False,False,False
+biomistral-7b,497,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,17,16,False,False,False
+biomistral-7b,498,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,39,False,False,False
+biomistral-7b,499,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,True,False,False
+biomistral-7b,500,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b,501,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b,502,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b,503,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b,504,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,38,37,False,False,False
+biomistral-7b,505,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b,506,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b,507,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b,508,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,True,False,False
+biomistral-7b,509,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b,510,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,42,False,False,False
+biomistral-7b,511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+biomistral-7b (first prompt),0,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),1,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),2,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,36,False,False,False
+biomistral-7b (first prompt),3,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),4,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),5,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),6,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),7,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),8,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),9,LABEL: <label>,REFUTED,False,False,REFUTED,False,2,0,False,True,False
+biomistral-7b (first prompt),10,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),11,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),12,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),13,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),14,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),15,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),16,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),17,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),18,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),19,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),20,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),21,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,43,False,False,False
+biomistral-7b (first prompt),22,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),23,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),24,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),25,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),26,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),27,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),28,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),29,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,50,46,False,False,False
+biomistral-7b (first prompt),30,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),31,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),32,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),33,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),34,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),35,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),36,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),37,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),38,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),39,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),40,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,18,16,False,False,False
+biomistral-7b (first prompt),41,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,45,False,False,False
+biomistral-7b (first prompt),42,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),43,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),44,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),45,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),46,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),47,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),48,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,10,8,False,False,False
+biomistral-7b (first prompt),49,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),50,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,31,False,False,False
+biomistral-7b (first prompt),51,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),52,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,11,9,False,False,False
+biomistral-7b (first prompt),53,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),54,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),55,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,60,56,False,False,False
+biomistral-7b (first prompt),56,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),57,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),58,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),59,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,47,False,False,False
+biomistral-7b (first prompt),60,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,48,44,False,False,False
+biomistral-7b (first prompt),61,LABEL: <label>,SUPPORTED,True,False,,True,32,30,False,False,False
+biomistral-7b (first prompt),62,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),63,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),64,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,31,False,False,False
+biomistral-7b (first prompt),65,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),66,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,16,14,False,False,False
+biomistral-7b (first prompt),67,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),68,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,15,13,False,False,False
+biomistral-7b (first prompt),69,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,43,False,False,False
+biomistral-7b (first prompt),70,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),71,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),72,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),73,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),74,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),75,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),76,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),77,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),78,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),79,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),80,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),81,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),82,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),83,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),84,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,43,False,False,False
+biomistral-7b (first prompt),85,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,36,False,False,False
+biomistral-7b (first prompt),86,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),87,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),88,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),89,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),90,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),91,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),92,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,43,False,False,False
+biomistral-7b (first prompt),93,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),94,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),95,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,105,101,True,False,True
+biomistral-7b (first prompt),96,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),97,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,58,54,False,False,False
+biomistral-7b (first prompt),98,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),99,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),100,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),101,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),102,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,43,39,False,False,False
+biomistral-7b (first prompt),103,LABEL: <label>,SUPPORTED,True,False,,True,104,102,True,False,True
+biomistral-7b (first prompt),104,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,45,False,False,False
+biomistral-7b (first prompt),105,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),106,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),107,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),108,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),109,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),110,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),111,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,40,False,False,False
+biomistral-7b (first prompt),112,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),113,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),114,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),115,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),116,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,35,False,False,False
+biomistral-7b (first prompt),117,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),118,LABEL: <label>,SUPPORTED,True,False,,True,103,101,True,False,True
+biomistral-7b (first prompt),119,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),120,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),121,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,35,False,False,False
+biomistral-7b (first prompt),122,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),123,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,40,False,False,False
+biomistral-7b (first prompt),124,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),125,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),126,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),127,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),128,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,35,False,False,False
+biomistral-7b (first prompt),129,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),130,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),131,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),132,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),133,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),134,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),135,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),136,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),137,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),138,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,12,8,False,False,False
+biomistral-7b (first prompt),139,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),140,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),141,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),142,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),143,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),144,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),145,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),146,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,35,False,False,False
+biomistral-7b (first prompt),147,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),148,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),149,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),150,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),151,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),152,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,18,14,False,False,False
+biomistral-7b (first prompt),153,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),154,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),155,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),156,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),157,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),158,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),159,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),160,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),161,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),162,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),163,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),164,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),165,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,46,42,False,False,False
+biomistral-7b (first prompt),166,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),167,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),168,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,95,False,False,False
+biomistral-7b (first prompt),169,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),170,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,85,81,False,False,False
+biomistral-7b (first prompt),171,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),172,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,10,8,False,False,False
+biomistral-7b (first prompt),173,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,41,37,False,False,False
+biomistral-7b (first prompt),174,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),175,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),176,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),177,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),178,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),179,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),180,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),181,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,106,102,True,False,True
+biomistral-7b (first prompt),182,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),183,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),184,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),185,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),186,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),187,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),188,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,10,8,False,False,False
+biomistral-7b (first prompt),189,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),190,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),191,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,40,False,False,False
+biomistral-7b (first prompt),192,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),193,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,50,False,False,False
+biomistral-7b (first prompt),194,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,55,51,False,False,False
+biomistral-7b (first prompt),195,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),196,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),197,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),198,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),199,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),200,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),201,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),202,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),203,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),204,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,46,42,False,False,False
+biomistral-7b (first prompt),205,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),206,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,35,False,False,False
+biomistral-7b (first prompt),207,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),208,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),209,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),210,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),211,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),212,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),213,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),214,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),215,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),216,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),217,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),218,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),219,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),220,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),221,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),222,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),223,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),224,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),225,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),226,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),227,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),228,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),229,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),230,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,59,False,False,False
+biomistral-7b (first prompt),231,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),232,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),233,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),234,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),235,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),236,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),237,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),238,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,13,11,False,False,False
+biomistral-7b (first prompt),239,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),240,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,45,False,False,False
+biomistral-7b (first prompt),241,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),242,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),243,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,43,False,False,False
+biomistral-7b (first prompt),244,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,40,False,False,False
+biomistral-7b (first prompt),245,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),246,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),247,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),248,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),249,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),250,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),251,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),252,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),253,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),254,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,31,False,False,False
+biomistral-7b (first prompt),255,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),256,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),257,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),258,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,55,53,False,False,False
+biomistral-7b (first prompt),259,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),260,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),261,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),262,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),263,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),264,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),265,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),266,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),267,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,15,13,False,False,False
+biomistral-7b (first prompt),268,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),269,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,40,False,False,False
+biomistral-7b (first prompt),270,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),271,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),272,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),273,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),274,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,45,False,False,False
+biomistral-7b (first prompt),275,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,100,96,True,False,False
+biomistral-7b (first prompt),276,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),277,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,88,True,False,False
+biomistral-7b (first prompt),278,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),279,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,45,43,False,False,False
+biomistral-7b (first prompt),280,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),281,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),282,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),283,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),284,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),285,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),286,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),287,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),288,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,85,81,False,False,False
+biomistral-7b (first prompt),289,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),290,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),291,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),292,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),293,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),294,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),295,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,43,39,False,False,False
+biomistral-7b (first prompt),296,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),297,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,9,7,False,False,False
+biomistral-7b (first prompt),298,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,16,14,False,False,False
+biomistral-7b (first prompt),299,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),300,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),301,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),302,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),303,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),304,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),305,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),306,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),307,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),308,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),309,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),310,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),311,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),312,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),313,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),314,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,55,51,False,False,False
+biomistral-7b (first prompt),315,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),316,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),317,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),318,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),319,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),320,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),321,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,33,False,False,False
+biomistral-7b (first prompt),322,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,12,10,False,False,False
+biomistral-7b (first prompt),323,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),324,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),325,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),326,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),327,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),328,LABEL: <label>,SUPPORTED,True,False,,True,2,0,False,True,False
+biomistral-7b (first prompt),329,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,22,20,False,False,False
+biomistral-7b (first prompt),330,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),331,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,36,False,False,False
+biomistral-7b (first prompt),332,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),333,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),334,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,47,False,False,False
+biomistral-7b (first prompt),335,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),336,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,69,False,False,False
+biomistral-7b (first prompt),337,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),338,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),339,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),340,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,11,9,False,False,False
+biomistral-7b (first prompt),341,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,35,False,False,False
+biomistral-7b (first prompt),342,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),343,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),344,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),345,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),346,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),347,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),348,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),349,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,70,66,False,False,False
+biomistral-7b (first prompt),350,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),351,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),352,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),353,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),354,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),355,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),356,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),357,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),358,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,52,48,False,False,False
+biomistral-7b (first prompt),359,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,34,32,False,False,False
+biomistral-7b (first prompt),360,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),361,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),362,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),363,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),364,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,31,False,False,False
+biomistral-7b (first prompt),365,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),366,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,31,False,False,False
+biomistral-7b (first prompt),367,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,59,False,False,False
+biomistral-7b (first prompt),368,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,12,10,False,False,False
+biomistral-7b (first prompt),369,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),370,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),371,LABEL: <label>,SUPPORTED,True,False,,True,9,7,False,False,False
+biomistral-7b (first prompt),372,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),373,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),374,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,49,45,False,False,False
+biomistral-7b (first prompt),375,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,46,42,False,False,False
+biomistral-7b (first prompt),376,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,47,False,False,False
+biomistral-7b (first prompt),377,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),378,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),379,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),380,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),381,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),382,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),383,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,46,42,False,False,False
+biomistral-7b (first prompt),384,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),385,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),386,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),387,LABEL: <label>,SUPPORTED,True,False,,True,44,42,False,False,False
+biomistral-7b (first prompt),388,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),389,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,50,46,False,False,False
+biomistral-7b (first prompt),390,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),391,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),392,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,54,52,False,False,False
+biomistral-7b (first prompt),393,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),394,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),395,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),396,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),397,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),398,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),399,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),400,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),401,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),402,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,36,False,False,False
+biomistral-7b (first prompt),403,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),404,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),405,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,47,False,False,False
+biomistral-7b (first prompt),406,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,16,14,False,False,False
+biomistral-7b (first prompt),407,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),408,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),409,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),410,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),411,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,23,21,False,False,False
+biomistral-7b (first prompt),412,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),413,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,49,False,False,False
+biomistral-7b (first prompt),414,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),415,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),416,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),417,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),418,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),419,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),420,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),421,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),422,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,14,12,False,False,False
+biomistral-7b (first prompt),423,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,36,False,False,False
+biomistral-7b (first prompt),424,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),425,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),426,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,12,10,False,False,False
+biomistral-7b (first prompt),427,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),428,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),429,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),430,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),431,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),432,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),433,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),434,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,44,40,False,False,False
+biomistral-7b (first prompt),435,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),436,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),437,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,93,89,False,False,False
+biomistral-7b (first prompt),438,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),439,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),440,LABEL: <label>,SUPPORTED,True,False,,True,13,11,False,False,False
+biomistral-7b (first prompt),441,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,52,48,False,False,False
+biomistral-7b (first prompt),442,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,30,False,False,False
+biomistral-7b (first prompt),443,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),444,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),445,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),446,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),447,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,10,8,False,False,False
+biomistral-7b (first prompt),448,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),449,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),450,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),451,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),452,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),453,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,12,10,False,False,False
+biomistral-7b (first prompt),454,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),455,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),456,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),457,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,38,False,False,False
+biomistral-7b (first prompt),458,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,16,False,False,False
+biomistral-7b (first prompt),459,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),460,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),461,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),462,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),463,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),464,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),465,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),466,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),467,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),468,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),469,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),470,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,2,0,False,True,False
+biomistral-7b (first prompt),471,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,27,False,False,False
+biomistral-7b (first prompt),472,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),473,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),474,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,18,False,False,False
+biomistral-7b (first prompt),475,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,20,False,False,False
+biomistral-7b (first prompt),476,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),477,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),478,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,12,10,False,False,False
+biomistral-7b (first prompt),479,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),480,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),481,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),482,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),483,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),484,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,25,False,False,False
+biomistral-7b (first prompt),485,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),486,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),487,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),488,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,19,False,False,False
+biomistral-7b (first prompt),489,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,26,False,False,False
+biomistral-7b (first prompt),490,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,45,41,False,False,False
+biomistral-7b (first prompt),491,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,32,False,False,False
+biomistral-7b (first prompt),492,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,24,False,False,False
+biomistral-7b (first prompt),493,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),494,LABEL: <label>,SUPPORTED,True,False,,True,12,10,False,False,False
+biomistral-7b (first prompt),495,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,29,False,False,False
+biomistral-7b (first prompt),496,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,91,False,False,False
+biomistral-7b (first prompt),497,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,72,False,False,False
+biomistral-7b (first prompt),498,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,22,False,False,False
+biomistral-7b (first prompt),499,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,15,False,False,False
+biomistral-7b (first prompt),500,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,116,112,True,False,True
+biomistral-7b (first prompt),501,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,34,False,False,False
+biomistral-7b (first prompt),502,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),503,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,21,False,False,False
+biomistral-7b (first prompt),504,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,10,False,False,False
+biomistral-7b (first prompt),505,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,23,False,False,False
+biomistral-7b (first prompt),506,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,17,False,False,False
+biomistral-7b (first prompt),507,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,36,False,False,False
+biomistral-7b (first prompt),508,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,48,44,False,False,False
+biomistral-7b (first prompt),509,LABEL: <label>,SUPPORTED,True,False,,True,79,77,True,False,False
+biomistral-7b (first prompt),510,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
+biomistral-7b (first prompt),511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,90,True,False,False
