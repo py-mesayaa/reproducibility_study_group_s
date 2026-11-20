@@ -1,0 +1,11 @@
+{
+  "model_id": "BioMistral/BioMistral-7B",
+  "precision": "8bit",
+  "prompt": "table6",
+  "gpu": "NVIDIA RTX 6000 Ada Generation",
+  "batch_size": 16,
+  "max_new_tokens": 512,
+  "decoding": "greedy",
+  "torch": "2.14.1+cu126",
+  "transformers": "5.22.2"
+}

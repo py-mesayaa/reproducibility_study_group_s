@@ -1,0 +1,10 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "precision": "bf16",
+  "gpu": "NVIDIA A30",
+  "batch_size": 16,
+  "max_new_tokens": 512,
+  "decoding": "greedy",
+  "torch": "2.14.1+cu126",
+  "transformers": "5.22.2"
+}
