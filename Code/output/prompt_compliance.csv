@@ -511,6 +511,518 @@ qwen25-7b,508,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFOR
 qwen25-7b,509,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,58,57,False,False,False
 qwen25-7b,510,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,64,59,False,False,False
 qwen25-7b,511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,55,False,False,False
+qwen25-7b bf16 (medchange subset),0,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,103,102,False,False,True
+qwen25-7b bf16 (medchange subset),1,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),2,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b bf16 (medchange subset),3,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),4,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),5,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),6,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),7,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),8,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,108,105,False,False,True
+qwen25-7b bf16 (medchange subset),9,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,118,115,False,False,True
+qwen25-7b bf16 (medchange subset),10,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b bf16 (medchange subset),11,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,False,False,True
+qwen25-7b bf16 (medchange subset),12,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,113,110,False,False,True
+qwen25-7b bf16 (medchange subset),13,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),14,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,66,65,False,False,False
+qwen25-7b bf16 (medchange subset),15,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,145,142,False,False,True
+qwen25-7b bf16 (medchange subset),16,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+qwen25-7b bf16 (medchange subset),17,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),18,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,71,66,False,False,False
+qwen25-7b bf16 (medchange subset),19,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),20,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,62,61,False,False,False
+qwen25-7b bf16 (medchange subset),21,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),22,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),23,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),24,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),25,<label> without LABEL:,REFUTED,False,False,REFUTED,False,83,82,False,False,False
+qwen25-7b bf16 (medchange subset),26,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b bf16 (medchange subset),27,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),28,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,71,66,False,False,False
+qwen25-7b bf16 (medchange subset),29,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),30,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),31,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b bf16 (medchange subset),32,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),33,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),34,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),35,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b bf16 (medchange subset),36,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),37,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b bf16 (medchange subset),38,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,75,74,False,False,False
+qwen25-7b bf16 (medchange subset),39,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),40,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,False,False,False
+qwen25-7b bf16 (medchange subset),41,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,56,53,False,False,False
+qwen25-7b bf16 (medchange subset),42,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,115,110,False,False,True
+qwen25-7b bf16 (medchange subset),43,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+qwen25-7b bf16 (medchange subset),44,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),45,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b bf16 (medchange subset),46,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),47,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),48,<label> without LABEL:,REFUTED,False,False,REFUTED,False,74,73,False,False,False
+qwen25-7b bf16 (medchange subset),49,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,67,66,False,False,False
+qwen25-7b bf16 (medchange subset),50,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),51,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b bf16 (medchange subset),52,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,86,85,False,False,False
+qwen25-7b bf16 (medchange subset),53,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),54,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,109,106,False,False,True
+qwen25-7b bf16 (medchange subset),55,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b bf16 (medchange subset),56,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,128,125,False,False,True
+qwen25-7b bf16 (medchange subset),57,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b bf16 (medchange subset),58,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,69,64,False,False,False
+qwen25-7b bf16 (medchange subset),59,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,79,78,False,False,False
+qwen25-7b bf16 (medchange subset),60,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),61,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,88,87,False,False,False
+qwen25-7b bf16 (medchange subset),62,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),63,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),64,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b bf16 (medchange subset),65,<label> without LABEL:,REFUTED,False,False,REFUTED,False,86,85,False,False,False
+qwen25-7b bf16 (medchange subset),66,<label> without LABEL:,REFUTED,False,False,REFUTED,False,122,121,False,False,True
+qwen25-7b bf16 (medchange subset),67,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,139,136,False,False,True
+qwen25-7b bf16 (medchange subset),68,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,83,80,False,False,False
+qwen25-7b bf16 (medchange subset),69,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,93,92,False,False,False
+qwen25-7b bf16 (medchange subset),70,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b bf16 (medchange subset),71,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b bf16 (medchange subset),72,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),73,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,95,92,False,False,False
+qwen25-7b bf16 (medchange subset),74,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),75,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b bf16 (medchange subset),76,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),77,<label> without LABEL:,REFUTED,False,False,REFUTED,False,113,112,False,False,True
+qwen25-7b bf16 (medchange subset),78,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+qwen25-7b bf16 (medchange subset),79,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),80,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,118,115,False,False,True
+qwen25-7b bf16 (medchange subset),81,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),82,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b bf16 (medchange subset),83,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),84,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),85,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),86,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,129,126,False,False,True
+qwen25-7b bf16 (medchange subset),87,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),88,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),89,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,84,83,False,False,False
+qwen25-7b bf16 (medchange subset),90,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b bf16 (medchange subset),91,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,117,112,False,False,True
+qwen25-7b bf16 (medchange subset),92,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b bf16 (medchange subset),93,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),94,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),95,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,71,70,False,False,False
+qwen25-7b bf16 (medchange subset),96,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,126,123,False,False,True
+qwen25-7b bf16 (medchange subset),97,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,108,103,False,False,True
+qwen25-7b bf16 (medchange subset),98,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,54,53,False,False,False
+qwen25-7b bf16 (medchange subset),99,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),100,<label> without LABEL:,REFUTED,False,False,REFUTED,False,95,94,False,False,False
+qwen25-7b bf16 (medchange subset),101,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),102,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,66,65,False,False,False
+qwen25-7b bf16 (medchange subset),103,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,95,94,False,False,False
+qwen25-7b bf16 (medchange subset),104,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),105,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),106,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,60,59,False,False,False
+qwen25-7b bf16 (medchange subset),107,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),108,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,False,False,False
+qwen25-7b bf16 (medchange subset),109,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b bf16 (medchange subset),110,LABEL: <label>,REFUTED,False,False,REFUTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),111,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+qwen25-7b bf16 (medchange subset),112,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,118,115,False,False,True
+qwen25-7b bf16 (medchange subset),113,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b bf16 (medchange subset),114,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,77,72,False,False,False
+qwen25-7b bf16 (medchange subset),115,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b bf16 (medchange subset),116,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,82,81,False,False,False
+qwen25-7b bf16 (medchange subset),117,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),118,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+qwen25-7b bf16 (medchange subset),119,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b bf16 (medchange subset),120,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,92,87,False,False,False
+qwen25-7b bf16 (medchange subset),121,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,67,64,False,False,False
+qwen25-7b bf16 (medchange subset),122,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b bf16 (medchange subset),123,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,114,109,False,False,True
+qwen25-7b bf16 (medchange subset),124,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,111,110,False,False,True
+qwen25-7b bf16 (medchange subset),125,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),126,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,99,98,False,False,False
+qwen25-7b bf16 (medchange subset),127,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b bf16 (medchange subset),128,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),129,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b bf16 (medchange subset),130,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b bf16 (medchange subset),131,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,111,106,False,False,True
+qwen25-7b bf16 (medchange subset),132,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+qwen25-7b bf16 (medchange subset),133,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),134,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b bf16 (medchange subset),135,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),136,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),137,<label> without LABEL:,REFUTED,False,False,REFUTED,False,99,98,False,False,False
+qwen25-7b bf16 (medchange subset),138,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,75,74,False,False,False
+qwen25-7b bf16 (medchange subset),139,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),140,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+qwen25-7b bf16 (medchange subset),141,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,193,190,False,False,True
+qwen25-7b bf16 (medchange subset),142,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),143,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b bf16 (medchange subset),144,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,54,53,False,False,False
+qwen25-7b bf16 (medchange subset),145,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,89,84,False,False,False
+qwen25-7b bf16 (medchange subset),146,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,84,83,False,False,False
+qwen25-7b bf16 (medchange subset),147,<label> without LABEL:,REFUTED,False,False,REFUTED,False,90,89,False,False,False
+qwen25-7b bf16 (medchange subset),148,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,100,95,False,False,False
+qwen25-7b bf16 (medchange subset),149,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),150,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+qwen25-7b bf16 (medchange subset),151,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b bf16 (medchange subset),152,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),153,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,73,72,False,False,False
+qwen25-7b bf16 (medchange subset),154,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,110,109,False,False,True
+qwen25-7b bf16 (medchange subset),155,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),156,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),157,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),158,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),159,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,85,82,False,False,False
+qwen25-7b bf16 (medchange subset),160,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b bf16 (medchange subset),161,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),162,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),163,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,75,72,False,False,False
+qwen25-7b bf16 (medchange subset),164,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,109,104,False,False,True
+qwen25-7b bf16 (medchange subset),165,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b bf16 (medchange subset),166,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),167,<label> without LABEL:,REFUTED,False,False,REFUTED,False,76,75,False,False,False
+qwen25-7b bf16 (medchange subset),168,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b bf16 (medchange subset),169,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),170,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),171,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),172,<label> without LABEL:,REFUTED,False,False,REFUTED,False,77,76,False,False,False
+qwen25-7b bf16 (medchange subset),173,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,116,113,False,False,True
+qwen25-7b bf16 (medchange subset),174,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,91,86,False,False,False
+qwen25-7b bf16 (medchange subset),175,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,90,89,False,False,False
+qwen25-7b bf16 (medchange subset),176,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,96,93,False,False,False
+qwen25-7b bf16 (medchange subset),177,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b bf16 (medchange subset),178,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),179,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),180,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b bf16 (medchange subset),181,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b bf16 (medchange subset),182,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),183,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b bf16 (medchange subset),184,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b bf16 (medchange subset),185,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),186,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),187,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,90,89,False,False,False
+qwen25-7b bf16 (medchange subset),188,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,85,84,False,False,False
+qwen25-7b bf16 (medchange subset),189,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,101,100,False,False,True
+qwen25-7b bf16 (medchange subset),190,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),191,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,False,False,False
+qwen25-7b bf16 (medchange subset),192,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),193,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b bf16 (medchange subset),194,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,81,76,False,False,False
+qwen25-7b bf16 (medchange subset),195,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,82,81,False,False,False
+qwen25-7b bf16 (medchange subset),196,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),197,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),198,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b bf16 (medchange subset),199,LABEL: <label>,REFUTED,False,False,REFUTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),200,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b bf16 (medchange subset),201,<label> without LABEL:,REFUTED,False,False,REFUTED,False,82,81,False,False,False
+qwen25-7b bf16 (medchange subset),202,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,False,False,True
+qwen25-7b bf16 (medchange subset),203,<label> without LABEL:,REFUTED,False,False,REFUTED,False,73,72,False,False,False
+qwen25-7b bf16 (medchange subset),204,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,93,92,False,False,False
+qwen25-7b bf16 (medchange subset),205,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b bf16 (medchange subset),206,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b bf16 (medchange subset),207,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,71,66,False,False,False
+qwen25-7b bf16 (medchange subset),208,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),209,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,112,107,False,False,True
+qwen25-7b bf16 (medchange subset),210,<label> without LABEL:,REFUTED,False,False,REFUTED,False,65,64,False,False,False
+qwen25-7b bf16 (medchange subset),211,<label> without LABEL:,REFUTED,False,False,REFUTED,False,99,98,False,False,False
+qwen25-7b bf16 (medchange subset),212,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),213,<label> without LABEL:,REFUTED,False,False,REFUTED,False,87,86,False,False,False
+qwen25-7b bf16 (medchange subset),214,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),215,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,62,59,False,False,False
+qwen25-7b bf16 (medchange subset),216,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+qwen25-7b bf16 (medchange subset),217,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b bf16 (medchange subset),218,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b bf16 (medchange subset),219,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,120,117,False,False,True
+qwen25-7b bf16 (medchange subset),220,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b bf16 (medchange subset),221,<label> without LABEL:,REFUTED,False,False,REFUTED,False,81,80,False,False,False
+qwen25-7b bf16 (medchange subset),222,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,77,76,False,False,False
+qwen25-7b bf16 (medchange subset),223,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),224,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b bf16 (medchange subset),225,<label> without LABEL:,REFUTED,False,False,REFUTED,False,71,70,False,False,False
+qwen25-7b bf16 (medchange subset),226,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,118,115,False,False,True
+qwen25-7b bf16 (medchange subset),227,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,73,68,False,False,False
+qwen25-7b bf16 (medchange subset),228,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b bf16 (medchange subset),229,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,83,82,False,False,False
+qwen25-7b bf16 (medchange subset),230,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,77,76,False,False,False
+qwen25-7b bf16 (medchange subset),231,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),232,<label> without LABEL:,REFUTED,False,False,REFUTED,False,97,96,False,False,False
+qwen25-7b bf16 (medchange subset),233,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b bf16 (medchange subset),234,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),235,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),236,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,50,47,False,False,False
+qwen25-7b bf16 (medchange subset),237,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,96,91,False,False,False
+qwen25-7b bf16 (medchange subset),238,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,94,93,False,False,False
+qwen25-7b bf16 (medchange subset),239,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),240,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,103,102,False,False,True
+qwen25-7b bf16 (medchange subset),241,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,89,84,False,False,False
+qwen25-7b bf16 (medchange subset),242,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,75,72,False,False,False
+qwen25-7b bf16 (medchange subset),243,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,91,90,False,False,False
+qwen25-7b bf16 (medchange subset),244,<label> without LABEL:,REFUTED,False,False,REFUTED,False,91,90,False,False,False
+qwen25-7b bf16 (medchange subset),245,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b bf16 (medchange subset),246,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b bf16 (medchange subset),247,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,116,111,False,False,True
+qwen25-7b bf16 (medchange subset),248,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,121,118,False,False,True
+qwen25-7b bf16 (medchange subset),249,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),250,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b bf16 (medchange subset),251,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+qwen25-7b bf16 (medchange subset),252,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b bf16 (medchange subset),253,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),254,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),255,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b bf16 (medchange subset),256,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),257,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),258,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,127,124,False,False,True
+qwen25-7b bf16 (medchange subset),259,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b bf16 (medchange subset),260,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,116,113,False,False,True
+qwen25-7b bf16 (medchange subset),261,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,76,75,False,False,False
+qwen25-7b bf16 (medchange subset),262,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),263,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b bf16 (medchange subset),264,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b bf16 (medchange subset),265,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),266,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+qwen25-7b bf16 (medchange subset),267,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b bf16 (medchange subset),268,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b bf16 (medchange subset),269,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,128,125,False,False,True
+qwen25-7b bf16 (medchange subset),270,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,83,80,False,False,False
+qwen25-7b bf16 (medchange subset),271,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,95,94,False,False,False
+qwen25-7b bf16 (medchange subset),272,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+qwen25-7b bf16 (medchange subset),273,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b bf16 (medchange subset),274,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,103,98,False,False,True
+qwen25-7b bf16 (medchange subset),275,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,62,59,False,False,False
+qwen25-7b bf16 (medchange subset),276,<label> without LABEL:,REFUTED,False,False,REFUTED,False,87,86,False,False,False
+qwen25-7b bf16 (medchange subset),277,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,75,74,False,False,False
+qwen25-7b bf16 (medchange subset),278,<label> without LABEL:,REFUTED,False,False,REFUTED,False,70,69,False,False,False
+qwen25-7b bf16 (medchange subset),279,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+qwen25-7b bf16 (medchange subset),280,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,61,58,False,False,False
+qwen25-7b bf16 (medchange subset),281,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),282,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,88,83,False,False,False
+qwen25-7b bf16 (medchange subset),283,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),284,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,102,97,False,False,True
+qwen25-7b bf16 (medchange subset),285,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,86,85,False,False,False
+qwen25-7b bf16 (medchange subset),286,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b bf16 (medchange subset),287,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),288,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b bf16 (medchange subset),289,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),290,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),291,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b bf16 (medchange subset),292,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),293,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),294,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),295,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,156,153,False,False,True
+qwen25-7b bf16 (medchange subset),296,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),297,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b bf16 (medchange subset),298,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,116,113,False,False,True
+qwen25-7b bf16 (medchange subset),299,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),300,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,103,102,False,False,True
+qwen25-7b bf16 (medchange subset),301,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),302,<label> without LABEL:,REFUTED,False,False,REFUTED,False,64,63,False,False,False
+qwen25-7b bf16 (medchange subset),303,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b bf16 (medchange subset),304,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b bf16 (medchange subset),305,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,108,105,False,False,True
+qwen25-7b bf16 (medchange subset),306,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),307,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),308,<label> without LABEL:,REFUTED,False,False,REFUTED,False,125,124,False,False,True
+qwen25-7b bf16 (medchange subset),309,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+qwen25-7b bf16 (medchange subset),310,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
+qwen25-7b bf16 (medchange subset),311,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),312,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),313,<label> without LABEL:,REFUTED,False,False,REFUTED,False,87,86,False,False,False
+qwen25-7b bf16 (medchange subset),314,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),315,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,77,74,False,False,False
+qwen25-7b bf16 (medchange subset),316,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,64,63,False,False,False
+qwen25-7b bf16 (medchange subset),317,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,76,71,False,False,False
+qwen25-7b bf16 (medchange subset),318,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),319,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),320,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,46,45,False,False,False
+qwen25-7b bf16 (medchange subset),321,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),322,<label> without LABEL:,REFUTED,False,False,REFUTED,False,98,97,False,False,False
+qwen25-7b bf16 (medchange subset),323,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,79,74,False,False,False
+qwen25-7b bf16 (medchange subset),324,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,False,False,False
+qwen25-7b bf16 (medchange subset),325,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b bf16 (medchange subset),326,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,135,132,False,False,True
+qwen25-7b bf16 (medchange subset),327,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,115,112,False,False,True
+qwen25-7b bf16 (medchange subset),328,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,79,74,False,False,False
+qwen25-7b bf16 (medchange subset),329,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,122,117,False,False,True
+qwen25-7b bf16 (medchange subset),330,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,113,112,False,False,True
+qwen25-7b bf16 (medchange subset),331,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),332,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),333,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b bf16 (medchange subset),334,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),335,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,126,123,False,False,True
+qwen25-7b bf16 (medchange subset),336,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b bf16 (medchange subset),337,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,93,92,False,False,False
+qwen25-7b bf16 (medchange subset),338,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),339,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,False,False,False
+qwen25-7b bf16 (medchange subset),340,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,99,94,False,False,False
+qwen25-7b bf16 (medchange subset),341,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,138,135,False,False,True
+qwen25-7b bf16 (medchange subset),342,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,47,44,False,False,False
+qwen25-7b bf16 (medchange subset),343,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,104,99,False,False,True
+qwen25-7b bf16 (medchange subset),344,LABEL: <label>,REFUTED,False,False,REFUTED,False,120,117,False,False,True
+qwen25-7b bf16 (medchange subset),345,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),346,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),347,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),348,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,90,89,False,False,False
+qwen25-7b bf16 (medchange subset),349,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b bf16 (medchange subset),350,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,137,134,False,False,True
+qwen25-7b bf16 (medchange subset),351,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b bf16 (medchange subset),352,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),353,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),354,<label> without LABEL:,REFUTED,False,False,REFUTED,False,98,97,False,False,False
+qwen25-7b bf16 (medchange subset),355,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),356,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),357,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,285,282,False,False,True
+qwen25-7b bf16 (medchange subset),358,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b bf16 (medchange subset),359,LABEL: <label>,REFUTED,False,False,REFUTED,False,63,60,False,False,False
+qwen25-7b bf16 (medchange subset),360,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,122,119,False,False,True
+qwen25-7b bf16 (medchange subset),361,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),362,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,107,104,False,False,True
+qwen25-7b bf16 (medchange subset),363,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),364,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),365,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),366,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,134,131,False,False,True
+qwen25-7b bf16 (medchange subset),367,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b bf16 (medchange subset),368,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b bf16 (medchange subset),369,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),370,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),371,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b bf16 (medchange subset),372,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,80,79,False,False,False
+qwen25-7b bf16 (medchange subset),373,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),374,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),375,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b bf16 (medchange subset),376,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),377,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,88,87,False,False,False
+qwen25-7b bf16 (medchange subset),378,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,75,74,False,False,False
+qwen25-7b bf16 (medchange subset),379,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+qwen25-7b bf16 (medchange subset),380,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),381,<label> without LABEL:,REFUTED,False,False,REFUTED,False,74,73,False,False,False
+qwen25-7b bf16 (medchange subset),382,<label> without LABEL:,REFUTED,False,False,REFUTED,False,67,66,False,False,False
+qwen25-7b bf16 (medchange subset),383,<label> without LABEL:,REFUTED,False,False,REFUTED,False,67,66,False,False,False
+qwen25-7b bf16 (medchange subset),384,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b bf16 (medchange subset),385,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),386,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),387,<label> without LABEL:,REFUTED,False,False,REFUTED,False,70,69,False,False,False
+qwen25-7b bf16 (medchange subset),388,<label> without LABEL:,REFUTED,False,False,REFUTED,False,88,87,False,False,False
+qwen25-7b bf16 (medchange subset),389,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,83,82,False,False,False
+qwen25-7b bf16 (medchange subset),390,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,108,103,False,False,True
+qwen25-7b bf16 (medchange subset),391,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),392,<label> without LABEL:,REFUTED,False,False,REFUTED,False,77,76,False,False,False
+qwen25-7b bf16 (medchange subset),393,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,False,False,False
+qwen25-7b bf16 (medchange subset),394,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,76,75,False,False,False
+qwen25-7b bf16 (medchange subset),395,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,118,115,False,False,True
+qwen25-7b bf16 (medchange subset),396,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,112,109,False,False,True
+qwen25-7b bf16 (medchange subset),397,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+qwen25-7b bf16 (medchange subset),398,<label> without LABEL:,REFUTED,False,False,REFUTED,False,85,84,False,False,False
+qwen25-7b bf16 (medchange subset),399,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),400,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,51,50,False,False,False
+qwen25-7b bf16 (medchange subset),401,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b bf16 (medchange subset),402,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),403,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,119,116,False,False,True
+qwen25-7b bf16 (medchange subset),404,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+qwen25-7b bf16 (medchange subset),405,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,False,False,False
+qwen25-7b bf16 (medchange subset),406,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+qwen25-7b bf16 (medchange subset),407,<label> without LABEL:,REFUTED,False,False,REFUTED,False,121,120,False,False,True
+qwen25-7b bf16 (medchange subset),408,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,67,62,False,False,False
+qwen25-7b bf16 (medchange subset),409,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),410,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,False,False,False
+qwen25-7b bf16 (medchange subset),411,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),412,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),413,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+qwen25-7b bf16 (medchange subset),414,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+qwen25-7b bf16 (medchange subset),415,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,93,88,False,False,False
+qwen25-7b bf16 (medchange subset),416,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,116,113,False,False,True
+qwen25-7b bf16 (medchange subset),417,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),418,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,False,False,False
+qwen25-7b bf16 (medchange subset),419,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),420,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),421,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,123,120,False,False,True
+qwen25-7b bf16 (medchange subset),422,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+qwen25-7b bf16 (medchange subset),423,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,106,101,False,False,True
+qwen25-7b bf16 (medchange subset),424,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,110,107,False,False,True
+qwen25-7b bf16 (medchange subset),425,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),426,<label> without LABEL:,REFUTED,False,False,REFUTED,False,66,65,False,False,False
+qwen25-7b bf16 (medchange subset),427,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,92,87,False,False,False
+qwen25-7b bf16 (medchange subset),428,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,69,68,False,False,False
+qwen25-7b bf16 (medchange subset),429,<label> without LABEL:,REFUTED,False,False,REFUTED,False,71,70,False,False,False
+qwen25-7b bf16 (medchange subset),430,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,91,90,False,False,False
+qwen25-7b bf16 (medchange subset),431,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,103,102,False,False,True
+qwen25-7b bf16 (medchange subset),432,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,67,64,False,False,False
+qwen25-7b bf16 (medchange subset),433,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),434,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,105,104,False,False,True
+qwen25-7b bf16 (medchange subset),435,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,104,101,False,False,True
+qwen25-7b bf16 (medchange subset),436,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b bf16 (medchange subset),437,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),438,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,115,114,False,False,True
+qwen25-7b bf16 (medchange subset),439,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,124,121,False,False,True
+qwen25-7b bf16 (medchange subset),440,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,113,110,False,False,True
+qwen25-7b bf16 (medchange subset),441,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,90,85,False,False,False
+qwen25-7b bf16 (medchange subset),442,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),443,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,105,102,False,False,True
+qwen25-7b bf16 (medchange subset),444,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+qwen25-7b bf16 (medchange subset),445,LABEL: <label>,REFUTED,False,False,REFUTED,False,87,84,False,False,False
+qwen25-7b bf16 (medchange subset),446,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+qwen25-7b bf16 (medchange subset),447,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,108,105,False,False,True
+qwen25-7b bf16 (medchange subset),448,<label> without LABEL:,REFUTED,False,False,REFUTED,False,75,74,False,False,False
+qwen25-7b bf16 (medchange subset),449,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),450,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,94,89,False,False,False
+qwen25-7b bf16 (medchange subset),451,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,False,False,True
+qwen25-7b bf16 (medchange subset),452,<label> without LABEL:,REFUTED,False,False,REFUTED,False,62,61,False,False,False
+qwen25-7b bf16 (medchange subset),453,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+qwen25-7b bf16 (medchange subset),454,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b bf16 (medchange subset),455,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,63,60,False,False,False
+qwen25-7b bf16 (medchange subset),456,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,80,79,False,False,False
+qwen25-7b bf16 (medchange subset),457,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,75,72,False,False,False
+qwen25-7b bf16 (medchange subset),458,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),459,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,False,False,False
+qwen25-7b bf16 (medchange subset),460,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,119,116,False,False,True
+qwen25-7b bf16 (medchange subset),461,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,90,89,False,False,False
+qwen25-7b bf16 (medchange subset),462,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+qwen25-7b bf16 (medchange subset),463,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+qwen25-7b bf16 (medchange subset),464,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,138,135,False,False,True
+qwen25-7b bf16 (medchange subset),465,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),466,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+qwen25-7b bf16 (medchange subset),467,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),468,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b bf16 (medchange subset),469,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,False,False,True
+qwen25-7b bf16 (medchange subset),470,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+qwen25-7b bf16 (medchange subset),471,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,47,46,False,False,False
+qwen25-7b bf16 (medchange subset),472,<label> without LABEL:,REFUTED,False,False,REFUTED,False,92,91,False,False,False
+qwen25-7b bf16 (medchange subset),473,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,False,False,True
+qwen25-7b bf16 (medchange subset),474,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b bf16 (medchange subset),475,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),476,<label> without LABEL:,REFUTED,False,False,REFUTED,False,76,75,False,False,False
+qwen25-7b bf16 (medchange subset),477,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,113,110,False,False,True
+qwen25-7b bf16 (medchange subset),478,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+qwen25-7b bf16 (medchange subset),479,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b bf16 (medchange subset),480,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,False,False,True
+qwen25-7b bf16 (medchange subset),481,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,83,78,False,False,False
+qwen25-7b bf16 (medchange subset),482,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+qwen25-7b bf16 (medchange subset),483,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,117,112,False,False,True
+qwen25-7b bf16 (medchange subset),484,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b bf16 (medchange subset),485,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+qwen25-7b bf16 (medchange subset),486,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),487,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+qwen25-7b bf16 (medchange subset),488,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,120,117,False,False,True
+qwen25-7b bf16 (medchange subset),489,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,False,False,False
+qwen25-7b bf16 (medchange subset),490,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,106,103,False,False,True
+qwen25-7b bf16 (medchange subset),491,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+qwen25-7b bf16 (medchange subset),492,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,False,False,False
+qwen25-7b bf16 (medchange subset),493,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b bf16 (medchange subset),494,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,False,False,False
+qwen25-7b bf16 (medchange subset),495,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,85,80,False,False,False
+qwen25-7b bf16 (medchange subset),496,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+qwen25-7b bf16 (medchange subset),497,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,77,76,False,False,False
+qwen25-7b bf16 (medchange subset),498,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,89,86,False,False,False
+qwen25-7b bf16 (medchange subset),499,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,66,65,False,False,False
+qwen25-7b bf16 (medchange subset),500,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,101,96,False,False,True
+qwen25-7b bf16 (medchange subset),501,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,80,75,False,False,False
+qwen25-7b bf16 (medchange subset),502,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,60,55,False,False,False
+qwen25-7b bf16 (medchange subset),503,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,108,105,False,False,True
+qwen25-7b bf16 (medchange subset),504,<label> without LABEL:,REFUTED,False,False,REFUTED,False,65,64,False,False,False
+qwen25-7b bf16 (medchange subset),505,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,58,55,False,False,False
+qwen25-7b bf16 (medchange subset),506,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,97,92,False,False,False
+qwen25-7b bf16 (medchange subset),507,<label> without LABEL:,SUPPORTED,False,True,SUPPORTED,False,90,87,False,False,False
+qwen25-7b bf16 (medchange subset),508,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+qwen25-7b bf16 (medchange subset),509,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,114,111,False,False,True
+qwen25-7b bf16 (medchange subset),510,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,False,False,False
+qwen25-7b bf16 (medchange subset),511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,False,False,False
 biomistral-7b,0,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
 biomistral-7b,1,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
 biomistral-7b,2,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
@@ -1535,3 +2047,515 @@ biomistral-7b (first prompt),508,LABEL: <label>,NOT ENOUGH INFORMATION,False,Fal
 biomistral-7b (first prompt),509,LABEL: <label>,SUPPORTED,True,False,,True,79,77,True,False,False
 biomistral-7b (first prompt),510,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,28,False,False,False
 biomistral-7b (first prompt),511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,90,True,False,False
+biomistral-7b (medchange subset),0,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,True,False,False
+biomistral-7b (medchange subset),1,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b (medchange subset),2,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,100,97,True,False,False
+biomistral-7b (medchange subset),3,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),4,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),5,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),6,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),7,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),8,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,56,53,False,False,False
+biomistral-7b (medchange subset),9,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,78,76,True,False,False
+biomistral-7b (medchange subset),10,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),11,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,28,25,False,False,False
+biomistral-7b (medchange subset),12,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+biomistral-7b (medchange subset),13,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),14,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,17,16,False,False,False
+biomistral-7b (medchange subset),15,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b (medchange subset),16,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,84,79,False,False,False
+biomistral-7b (medchange subset),17,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),18,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,90,89,True,False,False
+biomistral-7b (medchange subset),19,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),20,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),21,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),22,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),23,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),24,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),25,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,16,15,False,False,False
+biomistral-7b (medchange subset),26,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,42,39,False,False,False
+biomistral-7b (medchange subset),27,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),28,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,90,89,True,False,False
+biomistral-7b (medchange subset),29,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),30,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),31,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,111,108,True,False,True
+biomistral-7b (medchange subset),32,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),33,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),34,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),35,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),36,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,True,False,False
+biomistral-7b (medchange subset),37,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+biomistral-7b (medchange subset),38,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,50,45,False,False,False
+biomistral-7b (medchange subset),39,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b (medchange subset),40,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),41,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,True,False,False
+biomistral-7b (medchange subset),42,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,42,39,False,False,False
+biomistral-7b (medchange subset),43,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,34,31,False,False,False
+biomistral-7b (medchange subset),44,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,20,19,False,False,False
+biomistral-7b (medchange subset),45,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b (medchange subset),46,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,49,False,False,False
+biomistral-7b (medchange subset),47,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),48,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b (medchange subset),49,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,18,17,False,False,False
+biomistral-7b (medchange subset),50,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),51,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b (medchange subset),52,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,True,False,False
+biomistral-7b (medchange subset),53,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),54,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,True,False,False
+biomistral-7b (medchange subset),55,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,False,False,False
+biomistral-7b (medchange subset),56,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+biomistral-7b (medchange subset),57,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,48,False,False,False
+biomistral-7b (medchange subset),58,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b (medchange subset),59,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,True,False,False
+biomistral-7b (medchange subset),60,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,46,41,False,False,False
+biomistral-7b (medchange subset),61,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,88,83,True,False,False
+biomistral-7b (medchange subset),62,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,True,False,False
+biomistral-7b (medchange subset),63,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),64,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b (medchange subset),65,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b (medchange subset),66,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,110,108,True,False,True
+biomistral-7b (medchange subset),67,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,61,59,False,False,False
+biomistral-7b (medchange subset),68,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),69,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,103,100,True,False,True
+biomistral-7b (medchange subset),70,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),71,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,18,17,False,False,False
+biomistral-7b (medchange subset),72,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b (medchange subset),73,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,113,108,True,False,True
+biomistral-7b (medchange subset),74,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,37,34,False,False,False
+biomistral-7b (medchange subset),75,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b (medchange subset),76,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+biomistral-7b (medchange subset),77,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,28,False,False,False
+biomistral-7b (medchange subset),78,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b (medchange subset),79,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),80,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,True,False,True
+biomistral-7b (medchange subset),81,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,41,36,False,False,False
+biomistral-7b (medchange subset),82,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,39,36,False,False,False
+biomistral-7b (medchange subset),83,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),84,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),85,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,37,34,False,False,False
+biomistral-7b (medchange subset),86,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,53,51,False,False,False
+biomistral-7b (medchange subset),87,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),88,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,51,46,False,False,False
+biomistral-7b (medchange subset),89,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,True,False,False
+biomistral-7b (medchange subset),90,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,25,24,False,False,False
+biomistral-7b (medchange subset),91,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b (medchange subset),92,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,57,52,False,False,False
+biomistral-7b (medchange subset),93,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+biomistral-7b (medchange subset),94,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,True,False,False
+biomistral-7b (medchange subset),95,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),96,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b (medchange subset),97,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,91,86,True,False,False
+biomistral-7b (medchange subset),98,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,True,False,False
+biomistral-7b (medchange subset),99,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,67,62,False,False,False
+biomistral-7b (medchange subset),100,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b (medchange subset),101,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,79,78,True,False,False
+biomistral-7b (medchange subset),102,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b (medchange subset),103,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,True,False,False
+biomistral-7b (medchange subset),104,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),105,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,77,75,True,False,False
+biomistral-7b (medchange subset),106,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+biomistral-7b (medchange subset),107,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+biomistral-7b (medchange subset),108,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),109,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,59,54,False,False,False
+biomistral-7b (medchange subset),110,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),111,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+biomistral-7b (medchange subset),112,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,17,16,False,False,False
+biomistral-7b (medchange subset),113,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,False,False,False
+biomistral-7b (medchange subset),114,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),115,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,True,False,False
+biomistral-7b (medchange subset),116,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,True,False,False
+biomistral-7b (medchange subset),117,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),118,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b (medchange subset),119,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),120,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,True,False,False
+biomistral-7b (medchange subset),121,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),122,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),123,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,52,47,False,False,False
+biomistral-7b (medchange subset),124,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,False,False,False
+biomistral-7b (medchange subset),125,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b (medchange subset),126,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b (medchange subset),127,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,120,117,True,False,True
+biomistral-7b (medchange subset),128,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+biomistral-7b (medchange subset),129,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,False,False,False
+biomistral-7b (medchange subset),130,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+biomistral-7b (medchange subset),131,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),132,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b (medchange subset),133,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,56,53,False,False,False
+biomistral-7b (medchange subset),134,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b (medchange subset),135,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,True,False,False
+biomistral-7b (medchange subset),136,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,True,False,False
+biomistral-7b (medchange subset),137,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b (medchange subset),138,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+biomistral-7b (medchange subset),139,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),140,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b (medchange subset),141,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,49,46,False,False,False
+biomistral-7b (medchange subset),142,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),143,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,35,32,False,False,False
+biomistral-7b (medchange subset),144,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,True,False,False
+biomistral-7b (medchange subset),145,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,True,False,False
+biomistral-7b (medchange subset),146,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),147,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b (medchange subset),148,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),149,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+biomistral-7b (medchange subset),150,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,True,False,False
+biomistral-7b (medchange subset),151,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,54,51,False,False,False
+biomistral-7b (medchange subset),152,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),153,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),154,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b (medchange subset),155,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b (medchange subset),156,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b (medchange subset),157,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b (medchange subset),158,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),159,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),160,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),161,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),162,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,18,17,False,False,False
+biomistral-7b (medchange subset),163,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),164,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,17,16,False,False,False
+biomistral-7b (medchange subset),165,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,53,48,False,False,False
+biomistral-7b (medchange subset),166,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,True,False,False
+biomistral-7b (medchange subset),167,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),168,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),169,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,False,False,True
+biomistral-7b (medchange subset),170,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),171,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),172,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b (medchange subset),173,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b (medchange subset),174,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b (medchange subset),175,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),176,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,True,False,False
+biomistral-7b (medchange subset),177,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),178,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),179,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,True,False,False
+biomistral-7b (medchange subset),180,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+biomistral-7b (medchange subset),181,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),182,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b (medchange subset),183,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+biomistral-7b (medchange subset),184,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),185,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,47,44,False,False,False
+biomistral-7b (medchange subset),186,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+biomistral-7b (medchange subset),187,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b (medchange subset),188,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+biomistral-7b (medchange subset),189,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),190,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,True,False,False
+biomistral-7b (medchange subset),191,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,73,72,True,False,False
+biomistral-7b (medchange subset),192,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),193,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),194,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),195,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b (medchange subset),196,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,10,9,False,False,False
+biomistral-7b (medchange subset),197,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,True,False,False
+biomistral-7b (medchange subset),198,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b (medchange subset),199,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b (medchange subset),200,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,31,28,False,False,False
+biomistral-7b (medchange subset),201,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,33,False,False,False
+biomistral-7b (medchange subset),202,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,96,91,True,False,False
+biomistral-7b (medchange subset),203,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),204,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b (medchange subset),205,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),206,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+biomistral-7b (medchange subset),207,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b (medchange subset),208,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,True,False,False
+biomistral-7b (medchange subset),209,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),210,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),211,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,33,28,False,False,False
+biomistral-7b (medchange subset),212,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b (medchange subset),213,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,False,False,False
+biomistral-7b (medchange subset),214,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),215,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b (medchange subset),216,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),217,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),218,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,47,42,False,False,False
+biomistral-7b (medchange subset),219,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,68,63,False,False,False
+biomistral-7b (medchange subset),220,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),221,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),222,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,50,47,False,False,False
+biomistral-7b (medchange subset),223,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),224,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),225,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),226,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),227,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,76,73,True,False,False
+biomistral-7b (medchange subset),228,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,64,61,True,False,False
+biomistral-7b (medchange subset),229,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),230,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b (medchange subset),231,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b (medchange subset),232,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),233,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,46,43,False,False,False
+biomistral-7b (medchange subset),234,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),235,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,34,29,False,False,False
+biomistral-7b (medchange subset),236,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b (medchange subset),237,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),238,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,88,85,True,False,False
+biomistral-7b (medchange subset),239,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),240,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),241,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,54,49,False,False,False
+biomistral-7b (medchange subset),242,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,105,102,True,False,True
+biomistral-7b (medchange subset),243,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,115,112,False,False,True
+biomistral-7b (medchange subset),244,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),245,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),246,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,True,False,False
+biomistral-7b (medchange subset),247,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+biomistral-7b (medchange subset),248,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),249,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,98,95,False,False,False
+biomistral-7b (medchange subset),250,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,48,43,False,False,False
+biomistral-7b (medchange subset),251,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+biomistral-7b (medchange subset),252,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),253,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b (medchange subset),254,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+biomistral-7b (medchange subset),255,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),256,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+biomistral-7b (medchange subset),257,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),258,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,99,97,False,False,False
+biomistral-7b (medchange subset),259,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b (medchange subset),260,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),261,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,True,False,False
+biomistral-7b (medchange subset),262,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,42,39,False,False,False
+biomistral-7b (medchange subset),263,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),264,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b (medchange subset),265,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,56,53,False,False,False
+biomistral-7b (medchange subset),266,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,True,False,True
+biomistral-7b (medchange subset),267,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b (medchange subset),268,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,True,False,False
+biomistral-7b (medchange subset),269,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,83,80,False,False,False
+biomistral-7b (medchange subset),270,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+biomistral-7b (medchange subset),271,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,43,38,False,False,False
+biomistral-7b (medchange subset),272,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,True,False,False
+biomistral-7b (medchange subset),273,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+biomistral-7b (medchange subset),274,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,18,17,False,False,False
+biomistral-7b (medchange subset),275,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),276,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b (medchange subset),277,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),278,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,36,31,False,False,False
+biomistral-7b (medchange subset),279,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,True,False,False
+biomistral-7b (medchange subset),280,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),281,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),282,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,57,54,False,False,False
+biomistral-7b (medchange subset),283,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b (medchange subset),284,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b (medchange subset),285,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,23,20,False,False,False
+biomistral-7b (medchange subset),286,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,True,False,False
+biomistral-7b (medchange subset),287,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,73,70,False,False,False
+biomistral-7b (medchange subset),288,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+biomistral-7b (medchange subset),289,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,105,100,True,False,True
+biomistral-7b (medchange subset),290,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),291,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,72,69,True,False,False
+biomistral-7b (medchange subset),292,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,False,False,False
+biomistral-7b (medchange subset),293,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),294,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),295,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,59,54,False,False,False
+biomistral-7b (medchange subset),296,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),297,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b (medchange subset),298,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+biomistral-7b (medchange subset),299,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+biomistral-7b (medchange subset),300,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),301,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),302,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),303,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,94,91,True,False,False
+biomistral-7b (medchange subset),304,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,True,False,False
+biomistral-7b (medchange subset),305,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b (medchange subset),306,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,20,15,False,False,False
+biomistral-7b (medchange subset),307,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,95,90,True,False,False
+biomistral-7b (medchange subset),308,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),309,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+biomistral-7b (medchange subset),310,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,93,90,True,False,False
+biomistral-7b (medchange subset),311,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,70,67,False,False,False
+biomistral-7b (medchange subset),312,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),313,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,83,78,True,False,False
+biomistral-7b (medchange subset),314,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),315,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),316,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+biomistral-7b (medchange subset),317,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),318,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),319,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),320,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b (medchange subset),321,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b (medchange subset),322,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),323,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,True,False,False
+biomistral-7b (medchange subset),324,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),325,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,55,52,False,False,False
+biomistral-7b (medchange subset),326,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,True,False,False
+biomistral-7b (medchange subset),327,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,True,False,False
+biomistral-7b (medchange subset),328,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b (medchange subset),329,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,True,False,False
+biomistral-7b (medchange subset),330,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),331,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),332,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),333,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b (medchange subset),334,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,28,27,False,False,False
+biomistral-7b (medchange subset),335,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,52,49,False,False,False
+biomistral-7b (medchange subset),336,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+biomistral-7b (medchange subset),337,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,67,65,False,False,False
+biomistral-7b (medchange subset),338,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),339,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),340,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),341,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,81,79,False,False,False
+biomistral-7b (medchange subset),342,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,92,89,True,False,False
+biomistral-7b (medchange subset),343,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b (medchange subset),344,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,49,46,False,False,False
+biomistral-7b (medchange subset),345,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b (medchange subset),346,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b (medchange subset),347,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),348,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,False,False,False
+biomistral-7b (medchange subset),349,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,92,90,True,False,False
+biomistral-7b (medchange subset),350,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+biomistral-7b (medchange subset),351,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b (medchange subset),352,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),353,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,65,64,False,False,False
+biomistral-7b (medchange subset),354,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,32,27,False,False,False
+biomistral-7b (medchange subset),355,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,69,66,False,False,False
+biomistral-7b (medchange subset),356,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b (medchange subset),357,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,60,57,False,False,False
+biomistral-7b (medchange subset),358,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,97,92,True,False,False
+biomistral-7b (medchange subset),359,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),360,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,109,106,True,False,True
+biomistral-7b (medchange subset),361,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b (medchange subset),362,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b (medchange subset),363,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,82,79,False,False,False
+biomistral-7b (medchange subset),364,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,66,63,True,False,False
+biomistral-7b (medchange subset),365,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,59,56,False,False,False
+biomistral-7b (medchange subset),366,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b (medchange subset),367,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,78,73,True,False,False
+biomistral-7b (medchange subset),368,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,87,84,False,False,False
+biomistral-7b (medchange subset),369,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,31,26,False,False,False
+biomistral-7b (medchange subset),370,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,59,54,False,False,False
+biomistral-7b (medchange subset),371,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,110,108,True,False,True
+biomistral-7b (medchange subset),372,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,32,29,False,False,False
+biomistral-7b (medchange subset),373,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),374,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,63,58,False,False,False
+biomistral-7b (medchange subset),375,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,78,75,True,False,False
+biomistral-7b (medchange subset),376,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,False,False,False
+biomistral-7b (medchange subset),377,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,41,36,False,False,False
+biomistral-7b (medchange subset),378,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,17,16,False,False,False
+biomistral-7b (medchange subset),379,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b (medchange subset),380,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b (medchange subset),381,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,41,36,False,False,False
+biomistral-7b (medchange subset),382,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),383,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,89,84,True,False,False
+biomistral-7b (medchange subset),384,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b (medchange subset),385,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,50,47,False,False,False
+biomistral-7b (medchange subset),386,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),387,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,43,38,False,False,False
+biomistral-7b (medchange subset),388,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b (medchange subset),389,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,55,52,False,False,False
+biomistral-7b (medchange subset),390,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),391,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),392,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),393,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,101,98,True,False,True
+biomistral-7b (medchange subset),394,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,19,14,False,False,False
+biomistral-7b (medchange subset),395,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,88,86,False,False,False
+biomistral-7b (medchange subset),396,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b (medchange subset),397,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,47,44,False,False,False
+biomistral-7b (medchange subset),398,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),399,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),400,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),401,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,75,70,True,False,False
+biomistral-7b (medchange subset),402,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,65,62,True,False,False
+biomistral-7b (medchange subset),403,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,False,False,False
+biomistral-7b (medchange subset),404,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),405,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,77,74,False,False,False
+biomistral-7b (medchange subset),406,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b (medchange subset),407,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,71,66,True,False,False
+biomistral-7b (medchange subset),408,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),409,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,19,18,False,False,False
+biomistral-7b (medchange subset),410,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,93,88,False,False,False
+biomistral-7b (medchange subset),411,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,35,30,False,False,False
+biomistral-7b (medchange subset),412,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,90,87,True,False,False
+biomistral-7b (medchange subset),413,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),414,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,54,51,False,False,False
+biomistral-7b (medchange subset),415,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),416,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),417,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,True,False,False
+biomistral-7b (medchange subset),418,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,79,76,True,False,False
+biomistral-7b (medchange subset),419,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,False,False,False
+biomistral-7b (medchange subset),420,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,96,93,True,False,False
+biomistral-7b (medchange subset),421,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b (medchange subset),422,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,84,81,False,False,False
+biomistral-7b (medchange subset),423,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),424,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),425,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,True,False,False
+biomistral-7b (medchange subset),426,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),427,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),428,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,91,88,True,False,False
+biomistral-7b (medchange subset),429,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b (medchange subset),430,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b (medchange subset),431,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),432,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,21,16,False,False,False
+biomistral-7b (medchange subset),433,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b (medchange subset),434,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b (medchange subset),435,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),436,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),437,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),438,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),439,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),440,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b (medchange subset),441,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
+biomistral-7b (medchange subset),442,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b (medchange subset),443,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),444,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,81,78,True,False,False
+biomistral-7b (medchange subset),445,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+biomistral-7b (medchange subset),446,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b (medchange subset),447,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,67,64,False,False,False
+biomistral-7b (medchange subset),448,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),449,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,16,11,False,False,False
+biomistral-7b (medchange subset),450,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),451,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,82,77,False,False,False
+biomistral-7b (medchange subset),452,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,37,32,False,False,False
+biomistral-7b (medchange subset),453,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,48,45,False,False,False
+biomistral-7b (medchange subset),454,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b (medchange subset),455,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,63,60,False,False,False
+biomistral-7b (medchange subset),456,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,False,False,True
+biomistral-7b (medchange subset),457,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,True,False,False
+biomistral-7b (medchange subset),458,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,62,59,False,False,False
+biomistral-7b (medchange subset),459,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b (medchange subset),460,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+biomistral-7b (medchange subset),461,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),462,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,85,82,False,False,False
+biomistral-7b (medchange subset),463,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),464,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,56,53,False,False,False
+biomistral-7b (medchange subset),465,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,False,False,False
+biomistral-7b (medchange subset),466,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,58,55,True,False,False
+biomistral-7b (medchange subset),467,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,102,99,True,False,True
+biomistral-7b (medchange subset),468,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,42,37,False,False,False
+biomistral-7b (medchange subset),469,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),470,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,30,27,False,False,False
+biomistral-7b (medchange subset),471,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,False,False,False
+biomistral-7b (medchange subset),472,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,65,60,False,False,False
+biomistral-7b (medchange subset),473,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,38,33,False,False,False
+biomistral-7b (medchange subset),474,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,99,96,True,False,False
+biomistral-7b (medchange subset),475,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),476,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,40,35,False,False,False
+biomistral-7b (medchange subset),477,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,97,94,True,False,False
+biomistral-7b (medchange subset),478,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,23,18,False,False,False
+biomistral-7b (medchange subset),479,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,68,65,False,False,False
+biomistral-7b (medchange subset),480,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,20,19,False,False,False
+biomistral-7b (medchange subset),481,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,26,21,False,False,False
+biomistral-7b (medchange subset),482,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,81,79,False,False,False
+biomistral-7b (medchange subset),483,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,75,72,False,False,False
+biomistral-7b (medchange subset),484,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,71,68,True,False,False
+biomistral-7b (medchange subset),485,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,89,86,True,False,False
+biomistral-7b (medchange subset),486,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,80,77,False,False,False
+biomistral-7b (medchange subset),487,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,93,91,False,False,False
+biomistral-7b (medchange subset),488,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,86,83,True,False,False
+biomistral-7b (medchange subset),489,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),490,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,30,25,False,False,False
+biomistral-7b (medchange subset),491,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,51,48,False,False,False
+biomistral-7b (medchange subset),492,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,95,92,True,False,False
+biomistral-7b (medchange subset),493,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),494,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),495,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,14,9,False,False,False
+biomistral-7b (medchange subset),496,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,39,34,False,False,False
+biomistral-7b (medchange subset),497,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,58,53,False,False,False
+biomistral-7b (medchange subset),498,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,24,19,False,False,False
+biomistral-7b (medchange subset),499,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),500,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,28,23,False,False,False
+biomistral-7b (medchange subset),501,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,29,24,False,False,False
+biomistral-7b (medchange subset),502,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,67,62,False,False,False
+biomistral-7b (medchange subset),503,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,40,38,False,False,False
+biomistral-7b (medchange subset),504,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,25,20,False,False,False
+biomistral-7b (medchange subset),505,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,27,22,False,False,False
+biomistral-7b (medchange subset),506,<label> without LABEL:,SUPPORTED,False,False,SUPPORTED,False,24,23,False,False,False
+biomistral-7b (medchange subset),507,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,74,71,True,False,False
+biomistral-7b (medchange subset),508,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,104,101,True,False,True
+biomistral-7b (medchange subset),509,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,22,17,False,False,False
+biomistral-7b (medchange subset),510,LABEL: <label>,NOT ENOUGH INFORMATION,False,False,NOT ENOUGH INFORMATION,False,74,69,False,False,False
+biomistral-7b (medchange subset),511,LABEL: <label>,SUPPORTED,False,False,SUPPORTED,False,61,58,False,False,False
