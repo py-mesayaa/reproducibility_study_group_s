@@ -1,0 +1,9 @@
+,,Outdated Lab.,Outdated Lab.,Outdated Lab.,Latest Labels,Latest Labels,Latest Labels,,
+,,P,R,F1,P,R,F1,F1 diff.,Outdated Answers
+questions,model,,,,,,,,
+subset,qwen25-7b bf16 (medchange subset),43.1,37.2,30.9,28.3,30.7,26.0,-4.9,35.9
+subset,biomistral-7b (medchange subset),24.1,32.0,26.9,25.9,34.8,29.7,2.8,35.5
+MedChangeQA.csv,qwen25-7b,30.4,33.5,26.1,34.9,32.1,28.1,1.9,33.8
+MedChangeQA.csv,biomistral-7b (new),24.6,32.3,27.5,24.9,33.6,28.5,0.9,36.7
+paper Table 2,qwen25-7b,42.6,37.1,30.8,27.1,30.8,26.0,-4.8,35.4
+paper Table 2,biomistral-7b,36.8,37.2,36.3,35.4,35.5,35.3,-1.5,37.1
