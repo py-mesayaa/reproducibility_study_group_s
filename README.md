@@ -13,16 +13,40 @@ Outdated Medical Knowledge in LLMs* (arXiv 2509.04304) for Qwen 2.5 7B and BioMi
 | `Code/parse_answers.ipynb` | Extracts labels from the model answers → `Code/output/parsed_labels*.csv` |
 | `Code/prompt_compliance.ipynb` | Checks whether answers follow the `LABEL:` format → `Code/output/prompt_compliance.csv` |
 | `Code/experiments_results.ipynb` | Table 2 scores → `Code/output/table2_changed_knowledge.csv` |
-| `Code/compare_medchange_datasets.ipynb` | Shows that the released `MedChangeQA.csv` pairs questions with another topic's labels |
 | `Code/output/` | Model answers and the CSV outputs of the notebooks |
 | `Datasets/MedChangeQA.csv` | The 512-question dataset as released by the original authors |
 
-## Files not included
+## Data
 
-These come from the original authors' repository and are needed only for some steps:
+All data comes from public sources. The original data is the authors' public GitHub repository
+[jvladika/MedChange](https://github.com/jvladika/MedChange) (we used commit `474f969`). The models are
+public on Hugging Face.
 
-- `Code/FullScraped.csv`: used by `repro/build_subset.py` (its output, `repro/data/medchange_subset.csv`, is included)
-- The authors' answer files (`Code/GeneratedAnswers/*.txt`): used when re-scoring their answers with `repro/evaluate.py`
+**Included in this archive** (enough to run all scoring and notebooks without downloading anything):
+
+- `Datasets/MedChangeQA.csv`: unchanged copy from the authors' repository (64 KB)
+- `repro/data/medchange_subset.csv`: the 512 questions with their outdated and latest labels, built by `repro/build_subset.py`
+- All our model answers: `repro/outputs/`, `repro/diagnostics/outputs/` and `Code/output/`
+
+**Download on demand** (too large to include, only needed to rebuild the subset or re-score the authors' answers).
+Run from the archive's root folder:
+
+```bash
+BASE=https://raw.githubusercontent.com/jvladika/MedChange/474f969ade22b8f96a24c3970883e68a6f2799d1
+curl -L -o Code/FullScraped.csv "$BASE/Code/FullScraped.csv"
+curl -L -o Code/generated_questions_labels.txt "$BASE/Code/generated_questions_labels.txt"
+mkdir -p Code/GeneratedAnswers
+curl -L -o Code/GeneratedAnswers/qwen25-7b_answers.txt "$BASE/Code/GeneratedAnswers/qwen25-7b_answers.txt"
+curl -L -o Code/GeneratedAnswers/biomistral_answers.txt "$BASE/Code/GeneratedAnswers/biomistral_answers.txt"
+```
+
+- `Code/FullScraped.csv` (63 MB) and `Code/generated_questions_labels.txt` (2.4 MB): all review versions and
+  their generated questions; inputs of `repro/build_subset.py`
+- `Code/GeneratedAnswers/*.txt`: the authors' model answers; used by `repro/evaluate.py` and `repro/diagnostics/compare_authors.py`
+
+**Models** (downloaded automatically by `repro/run_inference.py` through Hugging Face):
+[`Qwen/Qwen2.5-7B-Instruct`](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) and
+[`BioMistral/BioMistral-7B`](https://huggingface.co/BioMistral/BioMistral-7B).
 
 ## Setup
 
