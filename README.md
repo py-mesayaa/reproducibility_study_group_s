@@ -21,7 +21,6 @@ Outdated Medical Knowledge in LLMs* (arXiv 2509.04304) for Qwen 2.5 7B and BioMi
 
 These come from the original authors' repository and are needed only for some steps:
 
-- `Datasets/MedRevQA.csv` (22 MB): used by `compare_medchange_datasets.ipynb`
 - `Code/FullScraped.csv`: used by `repro/build_subset.py` (its output, `repro/data/medchange_subset.csv`, is included)
 - The authors' answer files (`Code/GeneratedAnswers/*.txt`): used when re-scoring their answers with `repro/evaluate.py`
 
